@@ -1,0 +1,24 @@
+== Iteration 1 ==
+	Thread id [3152979]
+		: execution time: 341692204 usecs
+		: stall cycles: 35337032491
+		: NVM accesses: 191010986
+		: latency calculation overhead cycles: 0
+		: injected delay cycles: 64890059365
+		: injected delay in usec: 25956023
+== Iteration 2 ==
+	Thread id [3153073]
+		: execution time: 341787939 usecs
+		: stall cycles: 35307948057
+		: NVM accesses: 190853773
+		: latency calculation overhead cycles: 0
+		: injected delay cycles: 64837311258
+		: injected delay in usec: 25934924
+== Iteration 3 ==
+	Thread id [3153164]
+		: execution time: 341748438 usecs
+		: stall cycles: 35666414291
+		: NVM accesses: 192791428
+		: latency calculation overhead cycles: 0
+		: injected delay cycles: 65497663693
+		: injected delay in usec: 26199065

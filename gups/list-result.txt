@@ -1,0 +1,80 @@
+== Iteration 1 ==
+	Thread id [3160685]
+		: execution time: 45291682 usecs
+		: stall cycles: 30806217673
+		: NVM accesses: 167425096
+		: latency calculation overhead cycles: 0
+		: injected delay cycles: 56610808471
+		: injected delay in usec: 22653384
+== Iteration 2 ==
+	Thread id [3160767]
+		: execution time: 53746895 usecs
+		: stall cycles: 37808179141
+		: NVM accesses: 204368535
+		: latency calculation overhead cycles: 0
+		: injected delay cycles: 69478953640
+		: injected delay in usec: 27791581
+== Iteration 3 ==
+	Thread id [3160849]
+		: execution time: 45461572 usecs
+		: stall cycles: 30948056935
+		: NVM accesses: 167286794
+		: latency calculation overhead cycles: 0
+		: injected delay cycles: 56871345743
+		: injected delay in usec: 22748538
+== Iteration 4 ==
+	Thread id [3160931]
+		: execution time: 45354532 usecs
+		: stall cycles: 30865649871
+		: NVM accesses: 166841350
+		: latency calculation overhead cycles: 0
+		: injected delay cycles: 56720183948
+		: injected delay in usec: 22688073
+== Iteration 5 ==
+	Thread id [3161013]
+		: execution time: 45283145 usecs
+		: stall cycles: 30804237531
+		: NVM accesses: 166509392
+		: latency calculation overhead cycles: 0
+		: injected delay cycles: 56607002949
+		: injected delay in usec: 22642801
+== Iteration 6 ==
+	Thread id [3161095]
+		: execution time: 45968339 usecs
+		: stall cycles: 31317951598
+		: NVM accesses: 169286224
+		: latency calculation overhead cycles: 0
+		: injected delay cycles: 57550287859
+		: injected delay in usec: 23020115
+== Iteration 7 ==
+	Thread id [3161179]
+		: execution time: 45334581 usecs
+		: stall cycles: 30852374255
+		: NVM accesses: 166769590
+		: latency calculation overhead cycles: 0
+		: injected delay cycles: 56695770106
+		: injected delay in usec: 22678308
+== Iteration 8 ==
+	Thread id [3161264]
+		: execution time: 45326459 usecs
+		: stall cycles: 30838863757
+		: NVM accesses: 166696560
+		: latency calculation overhead cycles: 0
+		: injected delay cycles: 56670793466
+		: injected delay in usec: 22668317
+== Iteration 9 ==
+	Thread id [3161346]
+		: execution time: 45300041 usecs
+		: stall cycles: 30823358092
+		: NVM accesses: 166612746
+		: latency calculation overhead cycles: 0
+		: injected delay cycles: 56642611788
+		: injected delay in usec: 22657044
+== Iteration 10 ==
+	Thread id [3161428]
+		: execution time: 53823658 usecs
+		: stall cycles: 37881161754
+		: NVM accesses: 150920963
+		: latency calculation overhead cycles: 0
+		: injected delay cycles: 69612430986
+		: injected delay in usec: 20474244
